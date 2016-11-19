@@ -1,0 +1,8 @@
+h1 {
+  color: purple;
+}
+
+.redBorder {
+  border: 1px solid red;
+  color: orange;
+}
